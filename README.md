@@ -26,3 +26,6 @@ First, these are the following tools were installed and configured:
 - Deployed ArgoCD using kubectl and switched the context to the ArgoCD namespace.
 - Forwarded the ArgoCD server port to enable local access to the UI.
 - Logged into the ArgoCD dashboard for authentication and management purposes.
+
+![aa](https://github.com/user-attachments/assets/6417c176-20c8-4656-bc06-c343dfe8c5e4)
+
