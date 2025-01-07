@@ -19,7 +19,7 @@ First, these are the following tools were installed and configured:
 ## **2. EKS Cluster Creation**
 
 ### The Kubernetes cluster was provisioned on AWS using eksctl. After deployment, I validated the cluster's status to confirm that all nodes were active and ready to handle workloads.
-![1](https://github.com/Harshwardhansjadhav/Microservice-project/blob/main/Capture.JPG?raw=true)              
+![1](https://media.licdn.com/dms/image/v2/D5612AQGhXPzToKzMIw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736189924513?e=1741824000&v=beta&t=hUj2cfoameRytEGHJODC70RM-oA2FbMrKUepYfeONJE)              
 
 ## **3. Installing and Configuring ArgoCD**
 - Created a separate namespace for ArgoCD within the Kubernetes cluster.
