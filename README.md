@@ -33,5 +33,37 @@ First, these are the following tools were installed and configured:
 
 ![Capture](https://github.com/user-attachments/assets/485e0ab8-e409-4be9-b258-2b26124d9f71)
 
+![1736190623135](https://github.com/user-attachments/assets/ee16340d-fe27-43b3-99b9-14478386f6f0)
+
+![1736190970610](https://github.com/user-attachments/assets/f9ef7112-7ec7-4857-b6e7-9225e6e27f99)
+
+![1736190999080](https://github.com/user-attachments/assets/2d6429c1-87ff-46ac-bec9-3671890e4b22)
+
+![1736190999080](https://github.com/user-attachments/assets/2d6429c1-87ff-46ac-bec9-3671890e4b22)
+
+
+## **4. Setting up GitHub Repository**
+- Create GitHub Repository: Create a new repository on GitHub, ensuring to set the desired name and visibility (public/private).
+- Push App Files Using Git Bash: Initialize a local Git repository, add the GitHub repository as a remote, commit your changes, and push the app files to the GitHub repository.
+
+![1736191516616](https://github.com/user-attachments/assets/cc1fea7d-bd38-4b68-b2c5-003219ebfbca)
+
+## **5. Deploying the Application**
+
+- Checked the status of the deployed pods using kubectl commands.
+- Used kubectl port-forward to forward the product page service port for easy local access, making the application available at http://127.0.0.1/productpage.
+- Integrated ArgoCD to enable automatic redeployment, ensuring seamless updates every time changes are pushed to the GitHub repository.
+![Capture1](https://github.com/user-attachments/assets/2e5d93dc-9e3c-4575-a7ba-be9b7cb1cce6)
+![Capture2](https://github.com/user-attachments/assets/d6a46d5a-982f-4123-a567-e5b522c671d2)
+![Capture3](https://github.com/user-attachments/assets/7388ffa6-ecc7-4bc0-9234-0ce0f2216a21)
+![1736192097226 (1)](https://github.com/user-attachments/assets/4bd4abeb-7786-4e21-b43e-07f22e2d9a21)
+![1736192131139](https://github.com/user-attachments/assets/a554c2f5-0968-4623-887b-ed9660e41449)
+
+## ** 6. Installing and Configuring Istio**
+
+- Installed Istio using the demo profile with istioctl for a quick and easy setup.
+- Enabled Istio sidecar injection for the necessary namespaces and configured traffic flow management through the Bookinfo gateway.
+- Exposed the application to the outside world by setting up an AWS load balancer for external access.
+
 
 
