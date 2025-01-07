@@ -5,6 +5,13 @@ I designed and deployed a Kubernetes cluster using AWS Elastic Kubernetes Servic
 
 This project highlights a robust microservices-based architecture powering a dynamic website, composed of multiple services developed in Python, Ruby, Java, and Node.js. The stack demonstrates scalability, fault tolerance, and streamlined deployments, aligning with modern DevOps practices.
 
-**1. Prerequisites**
+### **1. Prerequisites**
+
 First, these are the following tools were installed and configured:  
 - **Git:** Used for version control to manage application code and Kubernetes manifests.
+- **GitHub:** Hosted repositories for application source code and GitOps configuration files.
+- **ArgoCD CLI:** Managed GitOps workflows for automated synchronization and deployment of Kubernetes resources.
+- **eksctl:** Simplified creation and management of the EKS cluster and associated resources.
+- **AWS CLI:** Configured and managed AWS services, including authentication and EKS cluster access.
+- **kubectl:** Interacted with Kubernetes clusters for resource management and troubleshooting.
+- **Istio CLI (istioctl):** Deployed and managed the Istio service mesh for traffic control and observability.
