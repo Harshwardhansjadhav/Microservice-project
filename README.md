@@ -27,6 +27,6 @@ First, these are the following tools were installed and configured:
 - Forwarded the ArgoCD server port to enable local access to the UI.
 - Logged into the ArgoCD dashboard for authentication and management purposes.
 
-{kubectl create namespace argocd
+{kubectl create namespace argocd}
 
-kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml }
+{kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml }
