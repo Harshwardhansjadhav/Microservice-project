@@ -26,4 +26,3 @@ First, these are the following tools were installed and configured:
 - Deployed ArgoCD using kubectl and switched the context to the ArgoCD namespace.
 - Forwarded the ArgoCD server port to enable local access to the UI.
 - Logged into the ArgoCD dashboard for authentication and management purposes.
-![image](https://github.com/Harshwardhansjadhav/Microservice-project/blob/main/aa.JPG?raw=true)
