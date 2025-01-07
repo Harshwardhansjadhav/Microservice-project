@@ -7,4 +7,4 @@ This project highlights a robust microservices-based architecture powering a dyn
 
 **1. Prerequisites**
 First, these are the following tools were installed and configured:  
-- Git: Used for version control to manage application code and Kubernetes manifests.
+- **Git:** Used for version control to manage application code and Kubernetes manifests.
