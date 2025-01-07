@@ -66,5 +66,16 @@ First, these are the following tools were installed and configured:
 - Enabled Istio sidecar injection for the necessary namespaces and configured traffic flow management through the Bookinfo gateway.
 - Exposed the application to the outside world by setting up an AWS load balancer for external access.
 
+![1git](https://github.com/user-attachments/assets/acb7deaf-7c03-40d0-b095-16bb9fbc9773)
+![8istioctl](https://github.com/user-attachments/assets/30d6b970-e80d-4365-8e67-3f0eafacff95)
+
+- Namespace creation.
+
+![2git](https://github.com/user-attachments/assets/f14536bb-a9b8-426a-aa77-aa0ba27f1191)
+![12istio](https://github.com/user-attachments/assets/e26a7225-30cf-4605-b49b-fb6b178767c8)
+
+
+
+
 
 
