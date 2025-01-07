@@ -59,7 +59,7 @@ First, these are the following tools were installed and configured:
 ![1736192097226 (1)](https://github.com/user-attachments/assets/4bd4abeb-7786-4e21-b43e-07f22e2d9a21)
 ![1736192131139](https://github.com/user-attachments/assets/a554c2f5-0968-4623-887b-ed9660e41449)
 
-## ** 6. Installing and Configuring Istio**
+## **6. Installing and Configuring Istio**
 
 - Installed Istio using the demo profile with istioctl for a quick and easy setup.
 - Enabled Istio sidecar injection for the necessary namespaces and configured traffic flow management through the Bookinfo gateway.
