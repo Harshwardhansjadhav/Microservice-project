@@ -29,3 +29,9 @@ First, these are the following tools were installed and configured:
 
 ![aa](https://github.com/user-attachments/assets/6417c176-20c8-4656-bc06-c343dfe8c5e4)
 
+![1736190623135](https://github.com/user-attachments/assets/5dd7e92b-d118-4fa7-b6df-e8e939326c10)
+
+![Capture](https://github.com/user-attachments/assets/485e0ab8-e409-4be9-b258-2b26124d9f71)
+
+
+
