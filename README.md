@@ -15,3 +15,7 @@ First, these are the following tools were installed and configured:
 - **AWS CLI:** Configured and managed AWS services, including authentication and EKS cluster access.
 - **kubectl:** Interacted with Kubernetes clusters for resource management and troubleshooting.
 - **Istio CLI (istioctl):** Deployed and managed the Istio service mesh for traffic control and observability.
+
+### **2. EKS Cluster Creation**
+
+## The Kubernetes cluster was provisioned on AWS using eksctl. After deployment, I validated the cluster's status to confirm that all nodes were active and ready to handle workloads.
