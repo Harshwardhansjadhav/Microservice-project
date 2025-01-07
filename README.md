@@ -53,6 +53,7 @@ First, these are the following tools were installed and configured:
 - Checked the status of the deployed pods using kubectl commands.
 - Used kubectl port-forward to forward the product page service port for easy local access, making the application available at http://127.0.0.1/productpage.
 - Integrated ArgoCD to enable automatic redeployment, ensuring seamless updates every time changes are pushed to the GitHub repository.
+  
 ![Capture1](https://github.com/user-attachments/assets/2e5d93dc-9e3c-4575-a7ba-be9b7cb1cce6)
 ![Capture2](https://github.com/user-attachments/assets/d6a46d5a-982f-4123-a567-e5b522c671d2)
 ![Capture3](https://github.com/user-attachments/assets/7388ffa6-ecc7-4bc0-9234-0ce0f2216a21)
